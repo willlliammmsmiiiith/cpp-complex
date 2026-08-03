@@ -1,0 +1,1 @@
+struct Complex { double real, imag; };
