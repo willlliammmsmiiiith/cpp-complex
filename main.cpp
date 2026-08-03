@@ -2,3 +2,6 @@
 #include "complex.h"
 int main() {
     Complex c = {1.0, 2.0};
+    std::cout << c.real << std::endl;
+    return 0;
+}
